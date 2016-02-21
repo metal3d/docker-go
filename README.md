@@ -1,5 +1,7 @@
 # docker-go
 
+[![](https://badge.imagelayers.io/metal3d/go:latest.svg)](https://imagelayers.io/?images=metal3d/go:latest 'Get your own badge on imagelayers.io')
+
 Alpine based docker image for golang version > 1.5.
 
 Each version can be taken from my docker hub, eg. `docker pull metal3d/go:1.6`
